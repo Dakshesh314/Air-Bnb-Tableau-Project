@@ -1,0 +1,17 @@
+Key Features
+✅ Pricing Analysis – Understand how location, property type, and ratings impact prices
+✅ Geospatial Mapping – Visual representation of Airbnb hotspots
+✅ Availability Trends – Identify seasonal and weekly booking variations
+✅ Host Insights – Analyze superhost trends and property performance
+
+Tech Stack
+🔹 Tableau – Data visualization & interactive dashboard creation
+🔹 Airbnb Dataset – Real-world data for market analysis
+🔹 Data Cleaning & Preprocessing – Preparing data for effective insights
+
+How to Use
+1️⃣ Download the dataset or use the provided one
+2️⃣ Open the Tableau workbook (.twbx)
+3️⃣ Explore the interactive dashboards to analyze Airbnb trends
+Dataset Link:
+https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
